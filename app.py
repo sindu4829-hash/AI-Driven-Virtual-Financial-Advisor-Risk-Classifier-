@@ -323,6 +323,6 @@ st.markdown("---")
 
 st.markdown("""
 <center>
-Made with ❤️ using Machine Learning, Streamlit & Scikit-learn
+ using Machine Learning, Streamlit & Scikit-learn
 </center>
 """, unsafe_allow_html=True)
